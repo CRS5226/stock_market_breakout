@@ -1,0 +1,34 @@
+{
+  "stocks": [
+    {
+      "stock_code": "HDFBAN",
+      "support": 2016,
+      "resistance": 2021
+    },
+    {
+      "stock_code": "ONGC",
+      "support": 262,
+      "resistance": 285
+    },
+    {
+      "stock_code": "LARTOU",
+      "support": 3300,
+      "resistance": 3501
+    },
+    {
+      "stock_code": "WIPRO",
+      "support": 220,
+      "resistance": 231
+    },
+    {
+      "stock_code": "MARUTI",
+      "support": 10000,
+      "resistance": 11001
+    },
+    {
+      "stock_code": "NTPC",
+      "support": 2000,
+      "resistance": 3000
+    }
+  ]
+}
